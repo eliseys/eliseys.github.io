@@ -2,7 +2,7 @@
 layout: about
 ---
 
-Меня зовут Дима. Я люблю яблочные пироги.
+Меня зовут Дима. Я люблю яблочные пироги и краткость.
 
 <!-- Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
 
