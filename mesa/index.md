@@ -1,5 +1,5 @@
 ---
-layout: MESA
+layout: default
 ---
 
 Здесь будут материалы по открытому коду звёздной эволюции [MESA](http://mesa.sourceforge.net/).
