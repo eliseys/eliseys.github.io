@@ -2,7 +2,7 @@
 layout: about
 ---
 
-Меня зовут Дима. Я люблю яблочные пироги и краткость.
+Я Дима Колесников, аспирант физфака МГУ им. Ломоносова. Работаю в Отделе релятивистской астрофизики ГАИШ. С удовольствием рассказываю об астрономии, поэтому иногда провожу экскурсии в Московском [Планетарии](http://www.planetarium-moscow.ru/) и наблюдения в Народной [обсерватории](http://park-gorkogo.com/places/132) Парка Горького.  
 
 <!-- Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
 
