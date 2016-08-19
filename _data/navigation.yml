@@ -1,20 +1,14 @@
 - title: About
   url: /me
 
-
-
-
-- title: Github
-  url: https://github.com/eliseys
-
 - title: Flickr
   url: https://www.flickr.com/photos/dmitry_kolesnikov/
 
-- title: MESA
-  url: /mesa
+#- title: MESA
+#  url: /mesa
 
 - title: Facebook
   url: https://www.facebook.com/dmitriy.kolesnikov.1
   
-- title: VK
+- title: Вконтакте
   url: https://vk.com/id9383842
