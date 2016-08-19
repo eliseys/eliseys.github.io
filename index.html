@@ -5,8 +5,18 @@ layout: default
 {% include header.html %}
 
 <div class="portfolio">
-    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/dmitry_kolesnikov/24854833756/in/dateposted-public/" title="1"><img src="https://c5.staticflickr.com/2/1455/24854833756_0f61f04cc9_z.jpg" width="640" height="427" alt="1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-    <SPACER TYPE=VERTICAL SIZE=50>
+    <center>
+    <a data-flickr-embed="true"  
+    href="https://www.flickr.com/photos/dmitry_kolesnikov/24854833756/in/dateposted-public/" 
+    title="1">
+        <img src="https://c5.staticflickr.com/2/1455/24854833756_0f61f04cc9_z.jpg" 
+    width="640" height="427" 
+    sizes="(max-width: 600px) 300px, (min-width: 600px) 600px"
+    alt="1">
+    </a>
+    <script async src="//embedr.flickr.com/assets/client-code.js" 
+    charset="utf-8"></script>
+    </center>
     <h1>Мои друзья</h1>
     <ul>
         {% for websites in site.data.websites %}
