@@ -1,7 +1,8 @@
 ---
 layout: about
 ---
-<img align="left" src="/assets/img/IMG_20160423_133752-01.jpeg">
+![](/assets/img/IMG_20160423_133752-01.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+
 Я Дима Колесников, аспирант физфака МГУ им. Ломоносова. Работаю в Отделе релятивистской астрофизики ГАИШ. С удовольствием рассказываю об астрономии, поэтому иногда провожу экскурсии в [Московском Планетарии](http://www.planetarium-moscow.ru/) и наблюдения в Народной [обсерватории](http://park-gorkogo.com/places/132) Парка Горького. Веду познавательный [Инстаграм](https://www.instagram.com/wunwud/), а в [Твиттере](https://twitter.com/Ka_Dmitry) просто пишу о том, что со мной происходит. 
 
 
