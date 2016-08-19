@@ -1,27 +1,18 @@
-- title: Home
-  url: /
-
 - title: About
   url: /me
 
-- title: Contact
-  url: mailto:k@homb.it
+
+
 
 - title: Github
   url: https://github.com/eliseys
 
-- title: Twitter
-  url: https://twitter.com/Ka_Dmitry
-  
 - title: Flickr
   url: https://www.flickr.com/photos/dmitry_kolesnikov/
 
 - title: MESA
   url: /mesa
 
-- title: Instagram
-  url: https://www.instagram.com/wunwud/
-  
 - title: Facebook
   url: https://www.facebook.com/dmitriy.kolesnikov.1
   
