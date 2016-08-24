@@ -87,6 +87,12 @@ ul {
     }
 }
 
+@media only screen and (max-width: 640px) {
+    .portfolio {
+        display: none;
+    }
+}
+ 
 
 
 .blog {
