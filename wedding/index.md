@@ -1,5 +1,5 @@
 ---
-layout: land
+layout: default
 ---
 
 Человечник
