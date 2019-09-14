@@ -1,6 +1,14 @@
 source 'https://rubygems.org'
 gem 'jekyll'
 gem 'jekyll-sitemap'
+gem 'jekyll-feed'
+gem 'jekyll-redirect-from'
+gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
+gem 'jekyll-avatar'
+gem 'jemoji'
+gem 'jekyll-mentions'
+gem 'jekyll-include-cache'
 group :jekyll_plugins do
   gem 'jekyll-google-tag-manager'
 end

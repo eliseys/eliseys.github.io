@@ -4,7 +4,7 @@ layout: post
 <!--
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/dmitry_kolesnikov/albums/72157710679727471" title="Vienna 2019"><img src="https://live.staticflickr.com/65535/48673633238_bd869634a1_b.jpg" width="1024" height="679" alt="Vienna 2019"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 -->
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/dmitry_kolesnikov/albums/72157710679727471" title="Vienna 2019"><img src="https://live.staticflickr.com/65535/48673633238_bd869634a1_c.jpg" width="800" height="530" alt="Vienna 2019"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/dmitry_kolesnikov/albums/72157710630373243" title="Budapest 2019"><img src="https://live.staticflickr.com/65535/48655116507_f40a873714_z.jpg" width="640" height="424" alt="Budapest 2019"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--
 Человеку надо мало:  
