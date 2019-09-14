@@ -4,14 +4,12 @@ gem 'jekyll-sitemap'
 gem 'jekyll-feed'
 gem 'jekyll-redirect-from'
 gem 'jekyll-seo-tag'
-gem 'jekyll-sitemap'
 gem 'jekyll-avatar'
 gem 'jemoji'
 gem 'jekyll-mentions'
 gem 'jekyll-include-cache'
-gem 'jekyll-google-tag-manager'
+#gem 'jekyll-google-tag-manager'
 
-
-#group :jekyll_plugins do
-#  gem 'jekyll-google-tag-manager'
-#end
+group :jekyll_plugins do
+ gem 'jekyll-google-tag-manager'
+end
