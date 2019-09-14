@@ -9,7 +9,9 @@ gem 'jekyll-avatar'
 gem 'jemoji'
 gem 'jekyll-mentions'
 gem 'jekyll-include-cache'
-gem 'gtm_on_rails'
-group :jekyll_plugins do
-  gem 'jekyll-google-tag-manager'
-end
+gem 'jekyll-google-tag-manager'
+
+
+#group :jekyll_plugins do
+#  gem 'jekyll-google-tag-manager'
+#end
