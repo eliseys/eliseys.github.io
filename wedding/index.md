@@ -76,11 +76,4 @@ layout: post
 -->
 
 
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/gp/dmitry_kolesnikov/9q8Ayb" title="Untitled"><img src="https://live.staticflickr.com/65535/48732735491_37bb911ab4_z.jpg" width="424" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
-<img src="https://i.imgur.com/bnEFbYN.jpg" width="300" />
-
-<!--
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/gp/dmitry_kolesnikov/xjzA3R" title="Untitled"><img src="https://live.staticflickr.com/65535/48732735491_37bb911ab4_z.jpg" width="424" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
--->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/uEoaJTj" data-context="false"><a href="//imgur.com/a/uEoaJTj">Test2</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
